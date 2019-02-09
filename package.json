@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tania-dm/adyen-checkathon/issues"
   },
-  "homepage": "https://github.com/tania-dm/adyen-checkathon#readme"
+  "homepage": "https://github.com/tania-dm/adyen-checkathon#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
